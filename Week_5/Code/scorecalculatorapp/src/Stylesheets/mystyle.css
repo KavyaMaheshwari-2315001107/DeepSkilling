@@ -1,0 +1,21 @@
+.box {
+  width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: #444;
+}
